@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import GoMoku from "../components/GoMoku";
 import { useRouter } from "next/navigation"; // Updated import
 
 const GoMokuPage: React.FC = () => {
